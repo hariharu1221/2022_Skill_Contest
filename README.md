@@ -53,7 +53,7 @@
 ------------
 ------------
 
-### 스크립트 구성
+### 스크립트 패턴 사용
 
 ##### 적, 엔티티 : EnemySubject와 EntitySubject를 통해 적들을 옵저버 패턴으로 관리하여 적들에게 변경사항을 전달합니다. [[EnemySubject](https://github.com/hariharu1221/2022_Skill_Contest/blob/main/Assets/Scripts/Enemy/EnemySubject.cs)] [[EntitySubject](https://github.com/hariharu1221/2022_Skill_Contest/blob/main/Assets/Scripts/Entity/EntitySubject.cs)]
 
@@ -64,4 +64,4 @@
 
 ##### 싱글톤 : 옵저버나 게임매니저 등 하나만 존재해야하거나 데이터 공유나 접근이 쉬워야할 때 Generic으로 적용함.
 
-##### 적 : 상속패턴을 통해 필요한 기능을 오버라이딩해 
+##### 적 : 상속패턴을 통해 필요한 기능을 재정의해 다른 적이더라도 Enemy 클래스를 상속 받았다면 옵저버에서 탐색 가능
