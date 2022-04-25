@@ -58,7 +58,7 @@
 ##### 적, 엔티티 : EnemySubject와 EntitySubject를 통해 적들을 옵저버 패턴으로 관리하여 적들에게 변경사항을 전달합니다. [[EnemySubject](https://github.com/hariharu1221/2022_Skill_Contest/blob/main/Assets/Scripts/Enemy/EnemySubject.cs)] [[EntitySubject](https://github.com/hariharu1221/2022_Skill_Contest/blob/main/Assets/Scripts/Entity/EntitySubject.cs)]
 
 ##### 총알 : BulletSubject를 통해 옵저버 패턴으로 적을 관리하고 / BulletPooling으로 총알을 생성 및 폴링 해 GC의 호출을 줄임 => 스파이크 현상 방지
-##### [[BulletSubject](https://github.com/hariharu1221/2022_Skill_Contest/blob/main/Assets/Scripts/Bullet/BulletSubject.cs)] [[BulletPooling](https://github.com/hariharu1221/2022_Skill_Contest/blob/main/Assets/Scripts/Bullet/BulletPooling.cs]
+##### [[BulletSubject](https://github.com/hariharu1221/2022_Skill_Contest/blob/main/Assets/Scripts/Bullet/BulletSubject.cs)] [[BulletPooling](https://github.com/hariharu1221/2022_Skill_Contest/blob/main/Assets/Scripts/Bullet/BulletPooling.cs)]
 
 ##### 데이터 : JsonLoader 클래스의 함수를 static과 Generic으로 구현해 접근성과 사용성이 편리하도록 제작하였습니다. [[JsonLoader](https://github.com/hariharu1221/2022_Skill_Contest/blob/main/Assets/Scripts/Utils/JsonLoader.cs)]
 
