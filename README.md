@@ -73,5 +73,3 @@
 ![ezgif-1-66d5a29b51](https://user-images.githubusercontent.com/67540874/165127350-d834fd0c-52ad-4479-8a3a-5600342eae54.gif)
 
 [동영상 링크](https://www.youtube.com/watch?v=NVz6qPCEk5w)
-<iframe id="video" width="가로" height="세로" src="/동영상 파일이 위치한 경로/동영상_이름.확장자명(mp4 등)" frameborder="0">
-</iframe>
