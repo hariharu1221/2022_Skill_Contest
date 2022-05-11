@@ -2,7 +2,7 @@
 
 ## **2022 서울지방기능경기대회 게임개발 종목 은상 수상작**
 
-#[동영상 링크](https://www.youtube.com/watch?v=NVz6qPCEk5w)
+# [동영상 링크](https://www.youtube.com/watch?v=NVz6qPCEk5w)
 
 ##### 개발시간 18시간
 
